@@ -1,0 +1,15 @@
+{
+  "name": "markdown-it-list-label",
+  "version": "1.0.0",
+  "description": "Creates a list label occupying the whole row.",
+  "main": "index.js",
+  "keywords": [
+    "markdown-it",
+    "label"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it-regexp": "^0.4.0"
+  }
+}
